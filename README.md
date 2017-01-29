@@ -1,2 +1,2 @@
 # dude
-https://orange-object.github.io/dude/.html
+https://orange-object.github.io/dude/index.html
