@@ -7,7 +7,7 @@ img .right {float: left; 0px;}
 img .right {margin: left; 0px;}
 img .left {float: left; 0px;}
 img .left {margin: left; 0px;}
-img .left div {
+div {
     width: 50px;
     border: 50px solid green;
     padding: 50px;
