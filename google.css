@@ -8,8 +8,8 @@ img .right {margin: left; 0px;}
 img .left {float: left; 0px;}
 img .left {margin: left; 0px;}
 img .left div {
-    width: 300px;
-    border: 25px solid green;
-    padding: 25px;
-    margin: 25px;
+    width: 50px;
+    border: 50px solid green;
+    padding: 50px;
+    margin: 50px;
 }
