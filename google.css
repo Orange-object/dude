@@ -3,6 +3,12 @@ body {background-color:#800080;}
 }
 	a{color:#3383ff}
 	a: hover{color:#009dff}
-
-img .left {border: right; 30px;}
-img .right {margin-left: 65px;}
+<style>
+div {
+    background-color: lightgrey;
+    width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin-left: 65px;
+}
+</style>
