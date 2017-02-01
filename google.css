@@ -6,9 +6,10 @@ body {background-color:#800080;}
 <style>
 div {
     background-color: lightgrey;
-    width: 300px;
+    width: 500px;
     border: 25px solid green;
     padding: 25px;
-    margin-left: 65px;
+    margin: 25px;
 }
+	<div><img class="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Yellowstone-black-bear-07895.jpg/500px-Yellowstone-black-bear-07895.jpg" width="500";></div>
 </style>
