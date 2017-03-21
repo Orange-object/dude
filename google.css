@@ -1,5 +1,11 @@
 body {background-color:#800080;}
 	background-image: https://orange-object.github.io/dude/;
+rr {
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #FDB813;
 }
 	a{color:#3383ff}
 	a: hover{color:#009dff}
