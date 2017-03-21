@@ -9,7 +9,7 @@ rr {
 }
 .img-with-text {
     text-align: justify;
-    width: [width of img];
+    width: [10%];
 }
 
 .img-with-text img {
